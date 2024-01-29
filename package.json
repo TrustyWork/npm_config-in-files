@@ -1,0 +1,24 @@
+{
+  "name": "config-in-files",
+  "version": "1.0.0",
+  "description": "A Node.js module for easy generation and storage of static configuration files.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TrustyWork/npm_config-in-files"
+  },
+  "keywords": [
+    "config",
+    "configuration",
+    "environment",
+    "env",
+    "variables",
+    "settings"
+  ],
+  "author": "Oleks Lytv <trustywork@gmail.com>",
+  "license": "ISC"
+}
