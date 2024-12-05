@@ -2,6 +2,9 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import url from 'node:url';
 
+// get env
+const env = process.env.NODE_ENV || '';
+
 // get config dir
 const configDir = process.env.CONFIG_DIR || './config';
 

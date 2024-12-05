@@ -9,7 +9,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TrustyWork/npm_config-in-files"
+    "url": "git+https://github.com/TrustyWork/npm_config-in-files.git"
   },
   "keywords": [
     "config",
