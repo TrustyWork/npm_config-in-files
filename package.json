@@ -1,6 +1,6 @@
 {
   "name": "config-in-files",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Node.js module for easy generation and storage of static configuration files.",
   "main": "src/index.js",
   "scripts": {
