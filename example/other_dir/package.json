@@ -1,0 +1,15 @@
+{
+  "name": "config-in-files_ex-simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cross-env CONFIG_DIR=./config2 node ./app.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config-in-files": "^1.0.0"
+  }
+}
